@@ -39,6 +39,14 @@ func Test_twoSum(t *testing.T) {
 			},
 			want: []int{0, 1},
 		},
+		{
+			name: "(additional) Case 4",
+			args: args{
+				nums:   []int{4, 3},
+				target: 6,
+			},
+			want: nil,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
