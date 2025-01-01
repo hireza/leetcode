@@ -3,7 +3,7 @@
 [![CI](https://github.com/hireza/leetcode/workflows/CI/badge.svg)](https://github.com/hireza/leetcode/actions?query=workflow%3ACI)
 [![CodeQL](https://github.com/hireza/leetcode/workflows/CodeQL/badge.svg)](https://github.com/hireza/leetcode/actions?query=workflow%3ACodeQL)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/72bcd76eb96f4d91a7d1d9cc5ebced55)](https://app.codacy.com/gh/hireza/leetcode/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![Coverage](https://img.shields.io/badge/Coverage-100.0%25-brightgreen)](https://github.com/hireza/leetcode)
+![Coverage](https://img.shields.io/badge/Coverage-100.0%25-brightgreen)
 [![Go](https://img.shields.io/github/go-mod/go-version/hireza/leetcode)](https://github.com/hireza/leetcode)
 [![License](https://img.shields.io/github/license/hireza/leetcode)](https://github.com/hireza/leetcode)
 
