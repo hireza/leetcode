@@ -3,10 +3,10 @@ name: CI
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   test:
@@ -15,6 +15,17 @@ jobs:
       fail-fast: false
       matrix:
         platform: [ubuntu-latest]
+
+    permissions:
+      # required for all workflows
+      security-events: write
+
+      # required to fetch internal or private CodeQL packs
+      packages: read
+
+      # only required for workflows in private repositories
+      actions: read
+      contents: read
 
     name: Run Test
     steps:
