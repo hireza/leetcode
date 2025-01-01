@@ -1,5 +1,6 @@
 # LeetCode Solutions
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/61b9d004ea914fe7a70d1b664f1e0cb3)](https://app.codacy.com/gh/hireza/leetcode?utm_source=github.com&utm_medium=referral&utm_content=hireza/leetcode&utm_campaign=Badge_Grade)
 [![CI](https://github.com/hireza/leetcode/workflows/CI/badge.svg)](https://github.com/hireza/leetcode/actions?query=workflow%3ACI)
 [![CodeQL](https://github.com/hireza/leetcode/workflows/CodeQL/badge.svg)](https://github.com/hireza/leetcode/actions?query=workflow%3ACodeQL)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/72bcd76eb96f4d91a7d1d9cc5ebced55)](https://app.codacy.com/gh/hireza/leetcode/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
