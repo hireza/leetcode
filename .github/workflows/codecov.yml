@@ -9,8 +9,16 @@ on:
   schedule:
     - cron: "16 1 * * 6"
 
+permissions:
+  contents: read
+
 jobs:
   codecov:
+    permissions:
+      contents: read
+      security-events: write
+      actions: read
+
     name: Codecov Tests
     runs-on: ubuntu-latest
     steps:

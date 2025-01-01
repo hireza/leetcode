@@ -40,7 +40,7 @@ go test ./... -v
 For questions or suggestions, feel free to reach out:
 
 - **LinkedIn**: [@hireza](https://www.linkedin.com/in/hireza)
-- **Email**: <hi@reza.by>
+- **Email**: [hi@reza.by](mailto:hi@reza.by)
 
 ---
 

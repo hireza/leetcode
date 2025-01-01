@@ -8,8 +8,15 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+
 jobs:
   test:
+    permissions:
+      contents: read
+      security-events: write
+      actions: read
     runs-on: ${{ matrix.platform }}
     strategy:
       fail-fast: false
