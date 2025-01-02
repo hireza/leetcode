@@ -27,13 +27,18 @@ go test ./... -v
 
 ## 📁 Problem Set
 
-| No. | Title                                                                        |                                           Solution                                           | Acceptance | Optimized |
-| :-: | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------: | :--------: | :-------: |
-| 1.  | [Two Sum](https://leetcode.com/problems/two-sum)                             |        [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00001-Two-Sum)        |   54.5%    |    ✅     |
-| 9.  | [Palindrome Number](https://leetcode.com/problems/palindrome-number)         |   [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00009-Palindrome-Number)   |   58.2%    |    ✅     |
-| 13. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)           |   [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00013-Roman-to-Integer)    |   63.6%    |    ✅     |
-| 14. | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00014-Longest-Common-Prefix) |   44.4%    |    ✅     |
-| 20. | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)         |   [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00020-Valid-Parentheses)   |   41.5%    |    ✅     |
+| No. | Title                                                                                                                                  |                                                         Solution                                                          | Acceptance | Optimized |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :--------: | :-------: |
+| 1.  | [Two Sum](https://leetcode.com/problems/two-sum)                                                                                       |                      [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00001-Two-Sum)                       |   54.5%    |    ✅     |
+| 9.  | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                                                   |                 [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00009-Palindrome-Number)                  |   58.2%    |    ✅     |
+| 13. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                                                                     |                  [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00013-Roman-to-Integer)                  |   63.6%    |    ✅     |
+| 14. | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                                                           |               [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00014-Longest-Common-Prefix)                |   44.4%    |    ✅     |
+| 20. | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                   |                 [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00020-Valid-Parentheses)                  |   41.5%    |    ✅     |
+| 21. | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                                         |               [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00021-Merge-Two-Sorted-Lists)               |   65.9%    |    ✅     |
+| 26. | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                               |        [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00026-Remove-Duplicates-from-Sorted-Array)         |   58.7%    |    ✅     |
+| 27. | [Remove Element](https://leetcode.com/problems/remove-element)                                                                         |                   [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00027-Remove-Element)                   |   59.0%    |    ✅     |
+| 28. | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00028-Find-the-Index-of-the-First-Occurrence-in-a-String) |   44.1%    |    ✅     |
+| 29. | [Search Insert Position](https://leetcode.com/problems/search-insert-position)                                                         |               [Go](https://github.com/hireza/leetcode/tree/master/Problem-Set/00035-Search-Insert-Position)               |   47.9%    |    ✅     |
 
 ## 📧 Contact
 
